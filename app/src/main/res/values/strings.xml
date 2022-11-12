@@ -1,0 +1,28 @@
+<resources>
+    <string name="greeting_text">Welcome to student management system. Please provide your informations below.</string>
+    <string name="app_name">cmpe 408 Project 01</string>
+    <string name="id">ID</string>
+    <string name="student_id">Student ID</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="birthplace">Birthplace</string>
+    <string name="birthplace_selection">Birthplace Selection</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="scholarship">Scholarship</string>
+    <string name="full">Full</string>
+    <string name="half">Half</string>
+    <string name="none">None</string>
+    <string name="additional_info">Additional Info</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
+    <string name="birth_date_not_selected">Birth date is not selected!</string>
+    <string name="gender_selection">Gender Selection</string>
+    <string name="faculty_selection">Faculty Selection</string>
+    <string name="fields_are_incomplete_warning">You should fill all of the fields in order to submit!</string>
+    <string name="fields_submitted_successfully">Informations submitted successfully!</string>
+    <string name="scholarship_status">Scholarship Status</string>
+</resources>
